@@ -10,14 +10,6 @@ sites:
     check: "tcp-ping"
     url: smtp.alfa-system.pl
     port: 587
-  - name: dns-cache-1.alfa-system.pl (DNS 53)
-    check: "tcp-ping"
-    url: dns-cache-1.alfa-system.pl
-    port: 53
-  - name: dns-cache-2.alfa-system.pl (DNS 53)
-    check: "tcp-ping"
-    url: dns-cache-2.alfa-system.pl
-    port: 53
 
 status-website:
   baseUrl: /status
