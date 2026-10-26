@@ -10,6 +10,38 @@ sites:
     check: "tcp-ping"
     url: smtp.alfa-system.pl
     port: 587
+  - name: Webmail (poczta)
+    url: https://poczta.alfa-system.pl
+    expectedStatusCodes:
+      - 200
+  - name: IP check (ip.alfa-system.pl)
+    url: https://ip.alfa-system.pl
+    expectedStatusCodes:
+      - 200
+  - name: IMAPS (993)
+    check: "tcp-ping"
+    url: imap.alfa-system.pl
+    port: 993
+  - name: POP3S (995)
+    check: "tcp-ping"
+    url: smtp.alfa-system.pl
+    port: 995
+  - name: SMTPS (465)
+    check: "tcp-ping"
+    url: smtp.alfa-system.pl
+    port: 465
+  - name: SMTP (25)
+    check: "tcp-ping"
+    url: smtp.alfa-system.pl
+    port: 25
+  - name: DNS autorytatywny dns (TCP 53)
+    check: "tcp-ping"
+    url: dns.alfa-system.pl
+    port: 53
+  - name: DNS autorytatywny dns2 (TCP 53)
+    check: "tcp-ping"
+    url: dns2.alfa-system.pl
+    port: 53
 
 status-website:
   baseUrl: /status
