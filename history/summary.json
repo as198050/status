@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-cache-1-alfa-system-pl-dns-53",
     "status": "down",
-    "uptime": "49.15%",
-    "uptimeDay": "49.15%",
-    "uptimeWeek": "49.15%",
-    "uptimeMonth": "49.15%",
-    "uptimeYear": "49.15%",
+    "uptime": "48.54%",
+    "uptimeDay": "48.54%",
+    "uptimeWeek": "48.54%",
+    "uptimeMonth": "48.54%",
+    "uptimeYear": "48.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -79,16 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-cache-2-alfa-system-pl-dns-53",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.62%",
+    "uptimeDay": "94.62%",
+    "uptimeWeek": "94.62%",
+    "uptimeMonth": "94.62%",
+    "uptimeYear": "94.62%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-26": 0
+    }
   }
 ]
