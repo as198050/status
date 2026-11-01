@@ -1,7 +1,7 @@
 url: smtp.alfa-system.pl
-status: up
-code: 200
-responseTime: 106
-lastUpdated: 2026-10-31T23:20:28.844Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-11-01T13:10:26.234Z
 startTime: 2026-10-26T13:15:49.859Z
 generator: Upptime <https://github.com/upptime/upptime>
