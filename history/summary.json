@@ -194,14 +194,14 @@
     "url": "dns.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
-    "status": "down",
-    "uptime": "95.47%",
-    "uptimeDay": "67.64%",
-    "uptimeWeek": "86.32%",
-    "uptimeMonth": "95.47%",
-    "uptimeYear": "95.47%",
+    "status": "up",
+    "uptime": "95.28%",
+    "uptimeDay": "65.01%",
+    "uptimeWeek": "85.73%",
+    "uptimeMonth": "95.28%",
+    "uptimeYear": "95.28%",
     "time": 135,
-    "timeDay": 122,
+    "timeDay": 124,
     "timeWeek": 134,
     "timeMonth": 135,
     "timeYear": 135,
@@ -212,7 +212,7 @@
       "2026-11-13": 320,
       "2026-11-14": 260,
       "2026-11-15": 246,
-      "2026-11-16": 326
+      "2026-11-16": 386
     }
   },
   {
@@ -221,11 +221,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
     "status": "down",
-    "uptime": "91.65%",
-    "uptimeDay": "69.05%",
-    "uptimeWeek": "74.79%",
-    "uptimeMonth": "91.65%",
-    "uptimeYear": "91.65%",
+    "uptime": "91.46%",
+    "uptimeDay": "65.84%",
+    "uptimeWeek": "74.16%",
+    "uptimeMonth": "91.46%",
+    "uptimeYear": "91.46%",
     "time": 134,
     "timeDay": 122,
     "timeWeek": 133,
@@ -238,7 +238,7 @@
       "2026-11-13": 727,
       "2026-11-14": 392,
       "2026-11-15": 393,
-      "2026-11-16": 318
+      "2026-11-16": 382
     }
   }
 ]
