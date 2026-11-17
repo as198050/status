@@ -1,7 +1,7 @@
 url: dns2.alfa-system.pl
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-11-17T19:52:44.502Z
+status: up
+code: 200
+responseTime: 118
+lastUpdated: 2026-11-17T20:30:18.206Z
 startTime: 2026-10-26T13:15:52.728Z
 generator: Upptime <https://github.com/upptime/upptime>
