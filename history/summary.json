@@ -165,15 +165,15 @@
     "url": "smtp.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
-    "status": "down",
-    "uptime": "95.38%",
-    "uptimeDay": "89.19%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "95.38%",
-    "uptimeYear": "95.38%",
+    "status": "up",
+    "uptime": "95.21%",
+    "uptimeDay": "88.14%",
+    "uptimeWeek": "90.05%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "95.21%",
     "time": 139,
-    "timeDay": 156,
-    "timeWeek": 145,
+    "timeDay": 150,
+    "timeWeek": 144,
     "timeMonth": 139,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -188,7 +188,7 @@
       "2026-11-15": 388,
       "2026-11-16": 171,
       "2026-11-17": 138,
-      "2026-11-18": 18
+      "2026-11-18": 75
     }
   },
   {
@@ -196,12 +196,12 @@
     "url": "dns.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
-    "status": "down",
-    "uptime": "94.34%",
-    "uptimeDay": "78.83%",
-    "uptimeWeek": "82.28%",
-    "uptimeMonth": "94.34%",
-    "uptimeYear": "94.34%",
+    "status": "up",
+    "uptime": "94.18%",
+    "uptimeDay": "79.12%",
+    "uptimeWeek": "81.71%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "94.18%",
     "time": 136,
     "timeDay": 143,
     "timeWeek": 136,
@@ -216,7 +216,7 @@
       "2026-11-15": 246,
       "2026-11-16": 433,
       "2026-11-17": 293,
-      "2026-11-18": 53
+      "2026-11-18": 110
     }
   },
   {
@@ -225,11 +225,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
     "status": "down",
-    "uptime": "89.59%",
+    "uptime": "89.42%",
     "uptimeDay": "58.80%",
-    "uptimeWeek": "67.06%",
-    "uptimeMonth": "89.59%",
-    "uptimeYear": "89.59%",
+    "uptimeWeek": "66.45%",
+    "uptimeMonth": "89.42%",
+    "uptimeYear": "89.42%",
     "time": 132,
     "timeDay": 119,
     "timeWeek": 131,
@@ -244,7 +244,7 @@
       "2026-11-15": 393,
       "2026-11-16": 500,
       "2026-11-17": 594,
-      "2026-11-18": 53
+      "2026-11-18": 115
     }
   }
 ]
