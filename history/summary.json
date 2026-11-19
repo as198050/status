@@ -166,12 +166,12 @@
     "url": "smtp.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
-    "status": "up",
-    "uptime": "94.33%",
-    "uptimeDay": "79.20%",
-    "uptimeWeek": "86.19%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "94.33%",
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "78.62%",
+    "uptimeWeek": "86.11%",
+    "uptimeMonth": "94.31%",
+    "uptimeYear": "94.31%",
     "time": 138,
     "timeDay": 139,
     "timeWeek": 145,
@@ -190,7 +190,7 @@
       "2026-11-16": 171,
       "2026-11-17": 138,
       "2026-11-18": 208,
-      "2026-11-19": 300
+      "2026-11-19": 308
     }
   },
   {
@@ -198,15 +198,15 @@
     "url": "dns.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
-    "status": "up",
+    "status": "down",
     "uptime": "92.62%",
-    "uptimeDay": "73.12%",
-    "uptimeWeek": "76.17%",
+    "uptimeDay": "73.98%",
+    "uptimeWeek": "76.29%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "92.62%",
     "time": 137,
     "timeDay": 141,
-    "timeWeek": 139,
+    "timeWeek": 140,
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -219,7 +219,7 @@
       "2026-11-16": 433,
       "2026-11-17": 293,
       "2026-11-18": 463,
-      "2026-11-19": 342
+      "2026-11-19": 346
     }
   },
   {
@@ -228,11 +228,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
     "status": "down",
-    "uptime": "87.23%",
-    "uptimeDay": "58.47%",
-    "uptimeWeek": "61.68%",
-    "uptimeMonth": "87.23%",
-    "uptimeYear": "87.23%",
+    "uptime": "87.10%",
+    "uptimeDay": "55.73%",
+    "uptimeWeek": "61.33%",
+    "uptimeMonth": "87.10%",
+    "uptimeYear": "87.10%",
     "time": 132,
     "timeDay": 142,
     "timeWeek": 133,
@@ -248,7 +248,7 @@
       "2026-11-16": 500,
       "2026-11-17": 594,
       "2026-11-18": 603,
-      "2026-11-19": 553
+      "2026-11-19": 605
     }
   }
 ]
