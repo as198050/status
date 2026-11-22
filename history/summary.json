@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
     "status": "up",
-    "uptime": "93.13%",
+    "uptime": "93.14%",
     "uptimeDay": "74.25%",
     "uptimeWeek": "81.92%",
-    "uptimeMonth": "93.13%",
-    "uptimeYear": "93.13%",
+    "uptimeMonth": "93.14%",
+    "uptimeYear": "93.14%",
     "time": 137,
     "timeDay": 128,
     "timeWeek": 137,
@@ -201,15 +201,15 @@
     "url": "dns.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
-    "status": "down",
-    "uptime": "90.34%",
-    "uptimeDay": "72.11%",
-    "uptimeWeek": "71.45%",
-    "uptimeMonth": "90.34%",
-    "uptimeYear": "90.34%",
+    "status": "up",
+    "uptime": "90.21%",
+    "uptimeDay": "68.26%",
+    "uptimeWeek": "70.90%",
+    "uptimeMonth": "90.21%",
+    "uptimeYear": "90.21%",
     "time": 136,
-    "timeDay": 127,
-    "timeWeek": 136,
+    "timeDay": 133,
+    "timeWeek": 137,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -225,7 +225,7 @@
       "2026-11-19": 448,
       "2026-11-20": 531,
       "2026-11-21": 235,
-      "2026-11-22": 267
+      "2026-11-22": 322
     }
   },
   {
@@ -233,15 +233,15 @@
     "url": "dns2.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
-    "status": "down",
-    "uptime": "84.04%",
-    "uptimeDay": "68.08%",
-    "uptimeWeek": "58.81%",
-    "uptimeMonth": "84.04%",
-    "uptimeYear": "84.04%",
+    "status": "up",
+    "uptime": "83.92%",
+    "uptimeDay": "64.23%",
+    "uptimeWeek": "58.26%",
+    "uptimeMonth": "83.92%",
+    "uptimeYear": "83.92%",
     "time": 133,
-    "timeDay": 134,
-    "timeWeek": 131,
+    "timeDay": 140,
+    "timeWeek": 132,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -257,7 +257,7 @@
       "2026-11-19": 735,
       "2026-11-20": 846,
       "2026-11-21": 390,
-      "2026-11-22": 259
+      "2026-11-22": 314
     }
   }
 ]
