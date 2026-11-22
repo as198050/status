@@ -166,14 +166,14 @@
     "url": "smtp.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
-    "status": "down",
-    "uptime": "93.38%",
-    "uptimeDay": "81.40%",
-    "uptimeWeek": "82.94%",
-    "uptimeMonth": "93.38%",
-    "uptimeYear": "93.38%",
+    "status": "up",
+    "uptime": "93.13%",
+    "uptimeDay": "74.25%",
+    "uptimeWeek": "81.92%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "93.13%",
     "time": 137,
-    "timeDay": 124,
+    "timeDay": 128,
     "timeWeek": 137,
     "timeMonth": 137,
     "timeYear": 137,
@@ -193,7 +193,7 @@
       "2026-11-19": 344,
       "2026-11-20": 194,
       "2026-11-21": 201,
-      "2026-11-22": 116
+      "2026-11-22": 219
     }
   },
   {
@@ -202,11 +202,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
     "status": "down",
-    "uptime": "90.60%",
-    "uptimeDay": "79.84%",
-    "uptimeWeek": "72.56%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "90.60%",
+    "uptime": "90.34%",
+    "uptimeDay": "72.11%",
+    "uptimeWeek": "71.45%",
+    "uptimeMonth": "90.34%",
+    "uptimeYear": "90.34%",
     "time": 136,
     "timeDay": 127,
     "timeWeek": 136,
@@ -225,7 +225,7 @@
       "2026-11-19": 448,
       "2026-11-20": 531,
       "2026-11-21": 235,
-      "2026-11-22": 155
+      "2026-11-22": 267
     }
   },
   {
@@ -234,13 +234,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
     "status": "down",
-    "uptime": "84.29%",
-    "uptimeDay": "72.07%",
-    "uptimeWeek": "59.91%",
-    "uptimeMonth": "84.29%",
-    "uptimeYear": "84.29%",
+    "uptime": "84.04%",
+    "uptimeDay": "68.08%",
+    "uptimeWeek": "58.81%",
+    "uptimeMonth": "84.04%",
+    "uptimeYear": "84.04%",
     "time": 133,
-    "timeDay": 130,
+    "timeDay": 134,
     "timeWeek": 131,
     "timeMonth": 133,
     "timeYear": 133,
@@ -257,7 +257,7 @@
       "2026-11-19": 735,
       "2026-11-20": 846,
       "2026-11-21": 390,
-      "2026-11-22": 147
+      "2026-11-22": 259
     }
   }
 ]
