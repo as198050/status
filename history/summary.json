@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
     "status": "down",
-    "uptime": "93.61%",
-    "uptimeDay": "85.41%",
-    "uptimeWeek": "83.60%",
-    "uptimeMonth": "93.61%",
-    "uptimeYear": "93.61%",
+    "uptime": "93.54%",
+    "uptimeDay": "83.39%",
+    "uptimeWeek": "83.31%",
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "93.54%",
     "time": 137,
     "timeDay": 132,
     "timeWeek": 138,
@@ -193,7 +193,7 @@
       "2026-11-19": 344,
       "2026-11-20": 194,
       "2026-11-21": 201,
-      "2026-11-22": 8
+      "2026-11-22": 37
     }
   },
   {
@@ -202,11 +202,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
     "status": "down",
-    "uptime": "90.92%",
-    "uptimeDay": "83.38%",
-    "uptimeWeek": "73.68%",
-    "uptimeMonth": "90.92%",
-    "uptimeYear": "90.92%",
+    "uptime": "90.85%",
+    "uptimeDay": "81.37%",
+    "uptimeWeek": "73.39%",
+    "uptimeMonth": "90.85%",
+    "uptimeYear": "90.85%",
     "time": 136,
     "timeDay": 124,
     "timeWeek": 136,
@@ -225,7 +225,7 @@
       "2026-11-19": 448,
       "2026-11-20": 531,
       "2026-11-21": 235,
-      "2026-11-22": 4
+      "2026-11-22": 33
     }
   },
   {
@@ -234,14 +234,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
     "status": "down",
-    "uptime": "84.54%",
-    "uptimeDay": "72.93%",
-    "uptimeWeek": "59.84%",
-    "uptimeMonth": "84.54%",
-    "uptimeYear": "84.54%",
+    "uptime": "84.48%",
+    "uptimeDay": "70.92%",
+    "uptimeWeek": "59.71%",
+    "uptimeMonth": "84.48%",
+    "uptimeYear": "84.48%",
     "time": 133,
     "timeDay": 135,
-    "timeWeek": 133,
+    "timeWeek": 132,
     "timeMonth": 133,
     "timeYear": 133,
     "dailyMinutesDown": {
@@ -257,7 +257,7 @@
       "2026-11-19": 735,
       "2026-11-20": 846,
       "2026-11-21": 390,
-      "2026-11-22": 0
+      "2026-11-22": 29
     }
   }
 ]
