@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.64%",
-    "time": 1030,
-    "timeDay": 0,
-    "timeWeek": 887,
-    "timeMonth": 1030,
-    "timeYear": 1030,
+    "time": 1027,
+    "timeDay": 913,
+    "timeWeek": 890,
+    "timeMonth": 1027,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2026-11-03": 59,
       "2026-11-04": 94
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
-    "time": 950,
-    "timeDay": 0,
-    "timeWeek": 804,
-    "timeMonth": 950,
-    "timeYear": 950,
+    "time": 983,
+    "timeDay": 2129,
+    "timeWeek": 994,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {
       "2026-11-03": 42,
       "2026-11-04": 78
@@ -53,8 +53,8 @@
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.17%",
     "time": 136,
-    "timeDay": 0,
-    "timeWeek": 132,
+    "timeDay": 139,
+    "timeWeek": 133,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -73,8 +73,8 @@
     "uptimeMonth": "99.13%",
     "uptimeYear": "99.13%",
     "time": 632,
-    "timeDay": 0,
-    "timeWeek": 614,
+    "timeDay": 619,
+    "timeWeek": 615,
     "timeMonth": 632,
     "timeYear": 632,
     "dailyMinutesDown": {
@@ -94,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1015,
-    "timeDay": 0,
-    "timeWeek": 1229,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "time": 1011,
+    "timeDay": 900,
+    "timeWeek": 1182,
+    "timeMonth": 1011,
+    "timeYear": 1011,
     "dailyMinutesDown": {}
   },
   {
@@ -113,8 +113,8 @@
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.18%",
     "time": 137,
-    "timeDay": 0,
-    "timeWeek": 134,
+    "timeDay": 141,
+    "timeWeek": 135,
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
@@ -133,8 +133,8 @@
     "uptimeMonth": "99.19%",
     "uptimeYear": "99.19%",
     "time": 136,
-    "timeDay": 0,
-    "timeWeek": 132,
+    "timeDay": 140,
+    "timeWeek": 133,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -152,11 +152,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.20%",
-    "time": 136,
-    "timeDay": 0,
-    "timeWeek": 132,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "time": 137,
+    "timeDay": 140,
+    "timeWeek": 133,
+    "timeMonth": 137,
+    "timeYear": 137,
     "dailyMinutesDown": {
       "2026-11-01": 339
     }
@@ -166,15 +166,15 @@
     "url": "smtp.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
-    "status": "down",
+    "status": "up",
     "uptime": "92.60%",
-    "uptimeDay": "84.64%",
+    "uptimeDay": "84.61%",
     "uptimeWeek": "83.56%",
     "uptimeMonth": "92.60%",
     "uptimeYear": "92.60%",
     "time": 136,
-    "timeDay": 132,
-    "timeWeek": 132,
+    "timeDay": 133,
+    "timeWeek": 133,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -204,11 +204,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
     "status": "down",
-    "uptime": "88.85%",
-    "uptimeDay": "72.73%",
-    "uptimeWeek": "70.64%",
-    "uptimeMonth": "88.85%",
-    "uptimeYear": "88.85%",
+    "uptime": "88.83%",
+    "uptimeDay": "72.12%",
+    "uptimeWeek": "70.58%",
+    "uptimeMonth": "88.83%",
+    "uptimeYear": "88.83%",
     "time": 136,
     "timeDay": 144,
     "timeWeek": 136,
@@ -229,7 +229,7 @@
       "2026-11-21": 235,
       "2026-11-22": 468,
       "2026-11-23": 409,
-      "2026-11-24": 393
+      "2026-11-24": 402
     }
   },
   {
@@ -238,11 +238,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
     "status": "down",
-    "uptime": "81.95%",
-    "uptimeDay": "52.41%",
-    "uptimeWeek": "56.91%",
-    "uptimeMonth": "81.95%",
-    "uptimeYear": "81.95%",
+    "uptime": "81.93%",
+    "uptimeDay": "52.38%",
+    "uptimeWeek": "56.83%",
+    "uptimeMonth": "81.93%",
+    "uptimeYear": "81.93%",
     "time": 133,
     "timeDay": 131,
     "timeWeek": 134,
@@ -263,7 +263,7 @@
       "2026-11-21": 390,
       "2026-11-22": 571,
       "2026-11-23": 523,
-      "2026-11-24": 668
+      "2026-11-24": 677
     }
   }
 ]
