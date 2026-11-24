@@ -166,12 +166,12 @@
     "url": "smtp.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
-    "status": "up",
-    "uptime": "92.92%",
-    "uptimeDay": "84.03%",
-    "uptimeWeek": "85.03%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "92.92%",
+    "status": "down",
+    "uptime": "92.93%",
+    "uptimeDay": "83.45%",
+    "uptimeWeek": "84.95%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "92.93%",
     "time": 136,
     "timeDay": 126,
     "timeWeek": 133,
@@ -194,7 +194,8 @@
       "2026-11-20": 194,
       "2026-11-21": 201,
       "2026-11-22": 257,
-      "2026-11-23": 230
+      "2026-11-23": 230,
+      "2026-11-24": 8
     }
   },
   {
@@ -202,12 +203,12 @@
     "url": "dns.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
-    "status": "up",
-    "uptime": "89.48%",
-    "uptimeDay": "71.62%",
-    "uptimeWeek": "73.43%",
-    "uptimeMonth": "89.48%",
-    "uptimeYear": "89.48%",
+    "status": "down",
+    "uptime": "89.51%",
+    "uptimeDay": "71.32%",
+    "uptimeWeek": "73.39%",
+    "uptimeMonth": "89.51%",
+    "uptimeYear": "89.51%",
     "time": 135,
     "timeDay": 138,
     "timeWeek": 134,
@@ -227,7 +228,8 @@
       "2026-11-20": 531,
       "2026-11-21": 235,
       "2026-11-22": 468,
-      "2026-11-23": 409
+      "2026-11-23": 409,
+      "2026-11-24": 4
     }
   },
   {
@@ -236,11 +238,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
     "status": "down",
-    "uptime": "83.01%",
-    "uptimeDay": "62.86%",
-    "uptimeWeek": "59.59%",
-    "uptimeMonth": "83.01%",
-    "uptimeYear": "83.01%",
+    "uptime": "82.64%",
+    "uptimeDay": "50.34%",
+    "uptimeWeek": "58.08%",
+    "uptimeMonth": "82.64%",
+    "uptimeYear": "82.64%",
     "time": 133,
     "timeDay": 151,
     "timeWeek": 133,
@@ -261,7 +263,7 @@
       "2026-11-21": 390,
       "2026-11-22": 571,
       "2026-11-23": 523,
-      "2026-11-24": 13
+      "2026-11-24": 194
     }
   }
 ]
