@@ -167,14 +167,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
     "status": "up",
-    "uptime": "92.60%",
-    "uptimeDay": "84.61%",
-    "uptimeWeek": "83.56%",
-    "uptimeMonth": "92.60%",
-    "uptimeYear": "92.60%",
+    "uptime": "92.63%",
+    "uptimeDay": "85.23%",
+    "uptimeWeek": "83.65%",
+    "uptimeMonth": "92.63%",
+    "uptimeYear": "92.63%",
     "time": 136,
     "timeDay": 133,
-    "timeWeek": 133,
+    "timeWeek": 132,
     "timeMonth": 136,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -195,7 +195,7 @@
       "2026-11-21": 201,
       "2026-11-22": 257,
       "2026-11-23": 230,
-      "2026-11-24": 223
+      "2026-11-24": 214
     }
   },
   {
@@ -203,17 +203,17 @@
     "url": "dns.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
-    "status": "down",
-    "uptime": "88.83%",
-    "uptimeDay": "72.12%",
-    "uptimeWeek": "70.58%",
-    "uptimeMonth": "88.83%",
-    "uptimeYear": "88.83%",
-    "time": 136,
-    "timeDay": 144,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "status": "up",
+    "uptime": "88.79%",
+    "uptimeDay": "70.66%",
+    "uptimeWeek": "70.59%",
+    "uptimeMonth": "88.79%",
+    "uptimeYear": "88.79%",
+    "time": 135,
+    "timeDay": 136,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {
       "2026-11-10": 45,
       "2026-11-11": 70,
@@ -229,7 +229,8 @@
       "2026-11-21": 235,
       "2026-11-22": 468,
       "2026-11-23": 409,
-      "2026-11-24": 402
+      "2026-11-24": 412,
+      "2026-11-25": 11
     }
   },
   {
@@ -237,14 +238,14 @@
     "url": "dns2.alfa-system.pl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
-    "status": "down",
-    "uptime": "81.93%",
-    "uptimeDay": "52.38%",
-    "uptimeWeek": "56.83%",
-    "uptimeMonth": "81.93%",
-    "uptimeYear": "81.93%",
+    "status": "up",
+    "uptime": "81.89%",
+    "uptimeDay": "52.39%",
+    "uptimeWeek": "56.82%",
+    "uptimeMonth": "81.89%",
+    "uptimeYear": "81.89%",
     "time": 133,
-    "timeDay": 131,
+    "timeDay": 126,
     "timeWeek": 134,
     "timeMonth": 133,
     "timeYear": 133,
@@ -263,7 +264,8 @@
       "2026-11-21": 390,
       "2026-11-22": 571,
       "2026-11-23": 523,
-      "2026-11-24": 677
+      "2026-11-24": 687,
+      "2026-11-25": 11
     }
   }
 ]
