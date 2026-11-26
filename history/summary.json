@@ -167,11 +167,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtp-25",
     "status": "down",
-    "uptime": "92.41%",
-    "uptimeDay": "86.04%",
-    "uptimeWeek": "83.72%",
-    "uptimeMonth": "92.40%",
-    "uptimeYear": "92.41%",
+    "uptime": "92.28%",
+    "uptimeDay": "81.73%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "92.26%",
+    "uptimeYear": "92.28%",
     "time": 137,
     "timeDay": 163,
     "timeWeek": 135,
@@ -196,7 +196,8 @@
       "2026-11-22": 257,
       "2026-11-23": 230,
       "2026-11-24": 214,
-      "2026-11-25": 200
+      "2026-11-25": 210,
+      "2026-11-26": 53
     }
   },
   {
@@ -205,13 +206,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns-tcp-53",
     "status": "down",
-    "uptime": "88.49%",
-    "uptimeDay": "78.47%",
-    "uptimeWeek": "72.19%",
-    "uptimeMonth": "88.48%",
-    "uptimeYear": "88.49%",
+    "uptime": "88.37%",
+    "uptimeDay": "75.58%",
+    "uptimeWeek": "71.57%",
+    "uptimeMonth": "88.34%",
+    "uptimeYear": "88.37%",
     "time": 135,
-    "timeDay": 128,
+    "timeDay": 135,
     "timeWeek": 135,
     "timeMonth": 135,
     "timeYear": 135,
@@ -231,7 +232,8 @@
       "2026-11-22": 468,
       "2026-11-23": 409,
       "2026-11-24": 412,
-      "2026-11-25": 300
+      "2026-11-25": 309,
+      "2026-11-26": 53
     }
   },
   {
@@ -240,13 +242,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dns-autorytatywny-dns2-tcp-53",
     "status": "down",
-    "uptime": "80.96%",
-    "uptimeDay": "52.43%",
-    "uptimeWeek": "56.06%",
-    "uptimeMonth": "80.95%",
-    "uptimeYear": "80.96%",
+    "uptime": "80.85%",
+    "uptimeDay": "49.54%",
+    "uptimeWeek": "55.89%",
+    "uptimeMonth": "80.81%",
+    "uptimeYear": "80.85%",
     "time": 132,
-    "timeDay": 116,
+    "timeDay": 121,
     "timeWeek": 135,
     "timeMonth": 132,
     "timeYear": 132,
@@ -266,7 +268,8 @@
       "2026-11-22": 571,
       "2026-11-23": 523,
       "2026-11-24": 687,
-      "2026-11-25": 676
+      "2026-11-25": 685,
+      "2026-11-26": 53
     }
   }
 ]
